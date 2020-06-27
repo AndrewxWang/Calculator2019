@@ -1,2 +1,1 @@
-# Calculator2019
-Made this calculator like a year ago
+Random projects I worked on last year (2019) while learning the basics in Java
